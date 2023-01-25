@@ -30,4 +30,6 @@
 
  kubectl logs <nome-del-pod> -n security
 
+ Spero possa essere utile a qualcuno.
+
 
